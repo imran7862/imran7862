@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **DSA && Web Development**
 
-- 📫 How to reach me **imransgaikh72909@gmail.com**
+- 📫 How to reach me **imranshaikh72909@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
