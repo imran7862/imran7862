@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Develoment && Problem Solving with DSA**
 
-- 💬 Ask me about **DSA && Web Development**
+- 💬 Ask me about **DSA && Web Development+GenAI**
 
 - 📫 How to reach me **imranshaikh72909@gmail.com**
 
