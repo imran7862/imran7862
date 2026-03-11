@@ -13,8 +13,6 @@
 # 👋 Hi, I'm Imran Shaikh
 
 🎓 B.E Computer Engineering (CGPA: **9.60**)  
-💼 Software Engineer Intern – **Datalogz (New York, USA)**  
-💼 Former Intern – **Juniper Square (Bengaluru, India)**  
 🚀 Building **AI-native applications powered by LLMs**  
 🧠 Strong in **Backend Engineering, System Design & DSA**
 
