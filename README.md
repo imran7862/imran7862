@@ -14,7 +14,8 @@
 
 🎓 B.E Computer Engineering (CGPA: **9.60**)  
 🚀 Building **AI-native applications powered by LLMs**  
-🧠 Strong in **Backend Engineering, System Design & DSA**
+🧠 Strong in **Backend Engineering, System Design & DSA**  
+📧 mail : imranshaikh72909@gmail.com
 
 ---
 
